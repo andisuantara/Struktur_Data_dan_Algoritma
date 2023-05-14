@@ -15,7 +15,7 @@ int main(int agrc, char** argv){
 	cout << "head: " << list1.head->value << endl;
 	cout << "tail: " << list1.tail->value << endl;
 	
-	printf("---------\n");
+	cout << "---------"<< endl;
 	list1.printAll();
 	
 	
