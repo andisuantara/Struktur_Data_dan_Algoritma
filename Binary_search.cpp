@@ -25,7 +25,7 @@ int main()
 	if(b>0)
 	{
 	cout<<endl;
-        out<<"data "<<caridt<< " terletak di index ke : ";
+        cout<<"data "<<caridt<< " terletak di index ke : ";
 	for(a=0;a<b;a++)
 	{
 	cout<<index[a]<<" ";
